@@ -1,0 +1,33 @@
+.topnav a{
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    background-color: #f1f1f1;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+}
+.btn {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.active, .btn:hover {
+    display: block;
+    padding: 8px 16px;
+    color: white;
+    text-decoration: none;
+    background-color: #4CAF50;
+}
