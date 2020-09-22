@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8c1df80-a676-421b-a618-d502e499824f" name="Default Changelist" comment="" />
+    <list default="true" id="d8c1df80-a676-421b-a618-d502e499824f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/WebWeek4CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebWeek4CSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebWeek4HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebWeek4JS.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebWeek4JS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/backgrounds.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/backgrounds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/colors.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/colors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/margins.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/margins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/selectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/selectors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sizes.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/sizes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/syntax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/texts.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/texts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/headings.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/headings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/paragraphs.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/paragraphs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/conditions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/data_types.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/data_types.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/functions.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/functions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/loops.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/loops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/objects.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/objects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/operators.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/operators.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/regexp.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/regexp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/syntax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/variables.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/variables.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +44,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/DucLongHo/WebWeek4.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hrH4z09bGBCkBMxvjB6y553apO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600762103763</updated>
-      <workItem from="1600762105431" duration="16483000" />
+      <workItem from="1600762105431" duration="16840000" />
     </task>
     <servers />
   </component>
